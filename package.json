@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "nbt": "^0.8.1"
+    "@types/node": "^12.12.3",
+    "nbt": "^0.8.1",
+    "typescript": "^3.6.4"
   }
 }
